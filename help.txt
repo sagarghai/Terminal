@@ -1,0 +1,8 @@
+clr [clear the screen] [takes no arguements]
+ls [list files and directories in the current directory] [takes no arguements]
+pwd [present working directory] [takes no arguements]
+cd [change to a directory] [takes a path as input to change to it]
+echo [print to screen] [takes a statement as input]
+pause [pauses the system untill enter is pressed] [takes no arguements]
+quit [break out of the system] [takes no arguements]
+environ [lists the environment variables] [takes no arguements]
